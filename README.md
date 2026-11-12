@@ -2,7 +2,7 @@
 <!-- HEADER -->
 <div align="center">
 
-# MARU ALLER
+# MARÍA ALLER
 
 ### QA AUTOMATION ENGINEER
 
