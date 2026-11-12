@@ -26,13 +26,10 @@ with Playwright, TypeScript, Maestro and Appium.
 
 ## TECH STACK
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,postman,git,github,vscode" />
-
-<img src="https://cdn.simpleicons.org/playwright/45BA4B" height="48" alt="Playwright" />
-
-</div>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Maestro](https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logoColor=white)
 
 
 **Testing:** Web E2E · API · Mobile · Integration Testing
