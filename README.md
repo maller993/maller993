@@ -1,18 +1,73 @@
-# maller993
 
-# Hola, soy Maru
+<!-- HEADER -->
+<div align="center">
 
-QA Automation Engineer en Buenos Aires, con más de 5 años de experiencia en testing web, mobile y APIs, los últimos 4 en fintech. Automatizo con Playwright y TypeScript, Maestro y Appium, integrado en pipelines de CI/CD.
+# MARU ALLER
 
-## Proyectos
+### QA AUTOMATION ENGINEER
 
-- [**playwright-2fa-e2e**](https://github.com/maller993/playwright-2fa-e2e): E2E web de un login con doble factor por email, leyendo el código desde un buzón real.
-- [**playwright-api-testing**](https://github.com/maller993/playwright-api-testing): Tests de API REST con Playwright, casos felices y negativos, con CI.
+**Quality Engineering · Test Automation · Fintech**
 
-## Stack
+Buenos Aires, Argentina
 
-Playwright · TypeScript · JavaScript · Maestro · Appium · Postman · SQL · GitHub Actions · Bitbucket Pipelines
+[LinkedIn](TU_LINKEDIN) · [GitHub](https://github.com/maller993)
 
-## Contacto
+</div>
 
-[LinkedIn](https://linkedin.com/in/maria-aller) · aller.maru@gmail.com
+---
+
+## ABOUT
+
+QA Automation Engineer with 5+ years of experience
+in Web, Mobile and API testing, including 4 years
+in the fintech industry.
+
+Focused on building reliable automation solutions
+with Playwright, TypeScript, Maestro and Appium.
+
+## TECH STACK
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,playwright,postman,git,github,vscode)](https://skillicons.dev)
+
+</div>
+
+**Testing:** Web E2E · API · Mobile · Integration Testing
+
+**CI/CD:** GitHub Actions · Bitbucket Pipelines
+
+**Additional:** SQL · Appium · Maestro
+
+---
+
+## FEATURED PROJECTS
+
+### 01. Playwright API Testing
+
+REST API automation using Playwright and TypeScript.
+
+- CRUD operations
+- Positive and negative scenarios
+- API assertions
+- GitHub Actions CI
+
+[VIEW PROJECT](https://github.com/maller993/playwright-api-testing)
+
+### 02. Playwright 2FA E2E
+
+End-to-end automation of an authentication flow.
+
+- Two-factor authentication
+- Email OTP retrieval
+- Mailpit integration
+- Playwright + TypeScript
+
+[VIEW PROJECT](https://github.com/maller993/playwright-2fa-e2e)
+
+---
+
+## LET'S CONNECT
+
+[LinkedIn](https://www.linkedin.com/in/maria-aller/) · [Email](mailto:aller.maru@gmail.com)
+
