@@ -21,7 +21,6 @@ Buenos Aires, Argentina
 QA Automation Engineer with 5+ years of experience
 in Web, Mobile and API testing, including 4 years
 in the fintech industry.
-
 Focused on building reliable automation solutions
 with Playwright, TypeScript, Maestro and Appium.
 
@@ -29,9 +28,12 @@ with Playwright, TypeScript, Maestro and Appium.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,playwright,postman,git,github,vscode)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=ts,js,postman,git,github,vscode" />
+
+<img src="https://cdn.simpleicons.org/playwright/45BA4B" height="48" alt="Playwright" />
 
 </div>
+
 
 **Testing:** Web E2E · API · Mobile · Integration Testing
 
